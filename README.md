@@ -1,2 +1,3 @@
 # hello-word
-just an respoitory
+hello everyone
+i am a new
